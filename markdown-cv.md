@@ -5,6 +5,10 @@
 
 **Email:** alii.aybb@gmail.com
 
+![](Ali.jpg)
+
+> ## Personal Info
+
 i'm a soon to be fully stacked web-developer, and i'm motivated to work and invest my time.
 
 > ## Education
@@ -24,6 +28,7 @@ i'm a soon to be fully stacked web-developer, and i'm motivated to work and inve
 * Problem solving
 * Time managemnet
 * Management Skills 
+
 
 > ## Languages
 * English 💪💪💪
